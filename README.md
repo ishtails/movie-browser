@@ -1,2 +1,2 @@
 ## Movie Browsing Site
-A Website that uses omdb API to fetch movie details using a search bar!
+A Website that uses OMDb API to fetch movie details using React & CSS mainly...
