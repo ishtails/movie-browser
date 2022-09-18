@@ -1,4 +1,4 @@
-import "./App.css"
+import "./Main.css"
 import React from 'react'
 import SearchIcon from "./search.svg"
 import MovieCard from "./moviecard"
