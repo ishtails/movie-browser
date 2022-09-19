@@ -25,7 +25,7 @@ const App = ()=>{
 
     return(
         <div className='app'>
-            <h1> Movierse </h1>
+            <h1> MovieLand </h1>
 
             <div className='search'>
                 <input 
